@@ -1,0 +1,20 @@
+"use strict";
+const _imports_0$1 = "/static/banners/搜索.png";
+const _imports_1 = "/static/banners/健康食谱.png";
+const _imports_2 = "/static/banners/宠物运动.png";
+const _imports_3 = "/static/banners/收藏夹.png";
+const _imports_4 = "/static/banners/训练.png";
+const _imports_5 = "/static/banners/开销记录.png";
+const _imports_6 = "/static/banners/宠物护理.png";
+const _imports_7 = "/static/logo1.png";
+const _imports_0 = "/static/icons/back.png";
+exports._imports_0 = _imports_0$1;
+exports._imports_0$1 = _imports_0;
+exports._imports_1 = _imports_1;
+exports._imports_2 = _imports_2;
+exports._imports_3 = _imports_3;
+exports._imports_4 = _imports_4;
+exports._imports_5 = _imports_5;
+exports._imports_6 = _imports_6;
+exports._imports_7 = _imports_7;
+//# sourceMappingURL=../../.sourcemap/mp-weixin/common/assets.js.map

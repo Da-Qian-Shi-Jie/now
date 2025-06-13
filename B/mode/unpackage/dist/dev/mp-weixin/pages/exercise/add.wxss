@@ -1,0 +1,82 @@
+
+.add-container.data-v-daec7470 {
+  padding: 20px;
+  background-color: #f8f8f8;
+  min-height: 100vh;
+}
+.header.data-v-daec7470 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+  background: white;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+.back-btn.data-v-daec7470 {
+  width: 24px;
+  height: 24px;
+}
+.title.data-v-daec7470 {
+  font-size: 18px;
+  font-weight: bold;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.save-btn.data-v-daec7470 {
+  color: #4CAF50;
+  font-size: 16px;
+}
+.form-container.data-v-daec7470 {
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+}
+.form-item.data-v-daec7470 {
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee;
+}
+.label.data-v-daec7470 {
+  display: block;
+  margin-bottom: 8px;
+  color: #666;
+  font-size: 14px;
+}
+.input.data-v-daec7470, .picker.data-v-daec7470 {
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  font-size: 16px;
+}
+.textarea.data-v-daec7470 {
+  width: 100%;
+  height: 80px;
+  font-size: 16px;
+  padding: 8px;
+  border: 1px solid #eee;
+  border-radius: 4px;
+}
+/* 返回按钮容器 */
+.back-btn-container.data-v-daec7470 {
+  display: flex;
+  align-items: center;
+  padding: 5px 10px 5px 0; /* 增加点击区域 */
+}
+
+/* 返回图标 */
+.back-icon.data-v-daec7470 {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+/* 返回文字 */
+.back-text.data-v-daec7470 {
+  font-size: 16px;
+  color: #333;
+}

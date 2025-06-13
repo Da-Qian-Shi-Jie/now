@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "navigationBarTitleText": "宠家"
+    },
+    {
+      "path": "pages/index/health-food/health-food",
+      "style": {
+        "navigationBarTitleText": "健康食谱"
+      }
+    },
+    {
+      "path": "pages/index/exercise/exercise",
+      "style": {
+        "navigationBarTitleText": "运动记录"
+      }
+    },
+    {
+      "path": "pages/index/exercise/add",
+      "style": {
+        "navigationBarTitleText": "添加记录"
+      }
+    },
+    {
+      "path": "pages/index/fun-collection/fun-collection",
+      "style": {
+        "navigationBarTitleText": "趣味收藏夹"
+      }
+    },
+    {
+      "path": "pages/index/exercise-plan/exercise-plan",
+      "style": {
+        "navigationBarTitleText": "训练计划"
+      }
+    },
+    {
+      "path": "pages/index/exercise-plan/add-plan",
+      "style": {
+        "navigationBarTitleText": "添加训练计划"
+      }
+    }
+  ],
+  "uniIdRouter": {},
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "宠家",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  }
+}

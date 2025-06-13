@@ -1,0 +1,32 @@
+{
+  "name": "mode",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev:mp-weixin": "uni -p mp-weixin",
+    "build:mp-weixin": "uni build -p mp-weixin",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@dcloudio/uni-app": "^2.0.2",
+    "@dcloudio/uni-app-plus": "^2.0.2",
+    "@dcloudio/uni-h5": "^2.0.2",
+    "@dcloudio/uni-mp-weixin": "^2.0.2",
+    "@dcloudio/uni-stat": "^2.0.2",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@dcloudio/types": "^3.0.7",
+    "@dcloudio/uni-automator": "^2.0.2",
+    "@dcloudio/uni-cli-shared": "^2.0.2",
+    "@dcloudio/vite-plugin-uni": "^3.0.0",
+    "@vue/compiler-sfc": "^3.2.45",
+    "sass": "^1.58.3",
+    "typescript": "^4.9.4",
+    "vite": "^4.1.4"
+  }
+}
